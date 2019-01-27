@@ -5,7 +5,7 @@ import geocoder
 # each tweet was stored on one line
 fname = 'tweetScrape.json'
 outname = 'tweetProcess.json'
-geoCodeKey = 'Z3Xd2SCGcM9fiaoKnm18ZhI09X0Z0Hw3'
+geoCodeKey = ''
 
 # find geolocation with mapquest
 def findGeoFunc(location):
